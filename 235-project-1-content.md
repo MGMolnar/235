@@ -1,5 +1,5 @@
-Game Overview
-=====
+# Game Overview
+---
 
 It should have been a relaxing weekend with your best friends away from the city, not having to think about work nor
 the family. Everything was great, you needed this, it was just that morning when you shot an elevan point deer. You 
@@ -13,8 +13,8 @@ neighborhood without being seen. Once seen, the aliens will chase and try to att
 out chase them, they will go back to what they were doing. Good Luck.
 
 
-Proposal
-=====
+# Proposal
+---
 
 ## Concept:
 
@@ -78,8 +78,8 @@ Mock gameplay image 2:
 	<dd>Programming and Level Design</dd>
 </dl>
 
-Documentation
-=====
+# Documentation
+---
 
 ## Website Process
 

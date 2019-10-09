@@ -1,5 +1,5 @@
-# Game Overview
----
+Game Overview
+=====
 
 It should have been a relaxing weekend with your best friends away from the city, not having to think about work nor
 the family. Everything was great, you needed this, it was just that morning when you shot an elevan point deer. You 
@@ -13,35 +13,35 @@ neighborhood without being seen. Once seen, the aliens will chase and try to att
 out chase them, they will go back to what they were doing. Good Luck.
 
 
-# Proposal
----
+Proposal
+=====
 
-## Concept:
+### Concept:
 
 While dodging incoming aliens, the player has to search for his family and rescue them.
 
-## Genre:
+### Genre:
 
 Action, Adventure, Avoidance, Simulation
 
-## Platform:
+### Platform:
 
 Desktop only
 
-## Story:
+### Story:
 
 During a trip for the weekend out of his hometown with his friends, Harry, recieved a 
 distress phone call from his daughter that abruptly ended. Harry packed up and headed home to make sure his family 
 safe. However, on his way home, Harry saw what was happening... an invasion! With the streets blocked Harry has to 
 continue on foot. Harry has to dodge through waves of aliens to get to his family and lead them out of the danger zone, to saftey.
 
-## Esthetics: 
+### Esthetics: 
 
 1. Graphics style:cartoonish
 2. Sound: ambient
 3. Effects: Sound when the player gets hit by an alien
 
-## Gameplay:
+### Gameplay:
 
 Mechanics - The player is able to chose on where they want to go with multiple directions to beat the level.
 
@@ -55,7 +55,7 @@ Learning:
 3. The last thing players need to watch out for is immovable objects such as cars. Cars can be used as a way to get trapped or as a way to escape from aliens
                
 			   
-## Images
+### Images
 
 Mock gameplay image 1:
 
@@ -65,7 +65,7 @@ Mock gameplay image 2:
 
 ![alt text](https://github.com/MGMolnar/235/blob/master/images/mockGameplay2.png)
 
-## About the Developer
+### About the Developer
 
 <dl>
 	<dt>Name:</dt>
@@ -78,10 +78,10 @@ Mock gameplay image 2:
 	<dd>Programming and Level Design</dd>
 </dl>
 
-# Documentation
----
+ Documentation
+=====
 
-## Website Process
+### Website Process
 
 First step was creating the video game idea. This included coming up with the theme and general gameplay for the game.
 The next step was to create the theme of the website. This included layout, color scheme and images used. 
@@ -92,7 +92,7 @@ was added into the pages, it was time to start making the pages responsive. I we
 web page making each as responsive as possible. Afterwards I checked to see how the pages looked on different devices.
 If any of the pages did not look right I fixed them to be responsive to the different device sizes.
 
-##Resources Used
+### Resources Used
 
 <dl>
 	<dt>Coolors.co</dt>
@@ -103,7 +103,7 @@ If any of the pages did not look right I fixed them to be responsive to the diff
 	<dd>Agar.io, Asteroids</dd>
 </dl>
 	
-## Tutorials and Sources
+### Tutorials and Sources
 
 Student, Katie Shields helped create the mock game images
 

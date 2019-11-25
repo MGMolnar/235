@@ -1,0 +1,57 @@
+Documentation
+=====
+
+### Website Process
+
+First step to creating this website was what I wanted to be displayed and figure out who I wanted to look at this website.
+I decided that I wanted to display the Magic The Gathering, MTG for short, cards as if this was a database. Now that I
+what I wanted to display, I went to decide who this website would be for. I settled on normal MTG players would visit
+this site and that would be my specific audience. Even with that in mind I still wanted to try and keep my website
+as professional as possible with using a minimal color selection and a nicely laid out format. I wanted to keep the 
+attention on the cards at all cost as that is what the people are coming to look at. I then went to work with the API
+and decided that I wanted to display the cards name, an image of the card, and the set that the card was from. I also
+chose on the fields that the user could change which became the color of the card, the converted mana cost, or cmc for short,
+of the card, and the amount of cards that would be on a single page. The next thing I added in was changing pages which came
+at a cost. Since I had chosen to let people set the number of cards per page, that meant not all the cards from one of the
+API pages would be displayed on screen at the same time. So I needed a way to loop through the results of one API page number
+then when I got to the end increase the API page number by one. In the end I was able to do this which took me awhile to do.
+My last thing I ended up adding in was the local storage to the browser. I created two buttons one that would save the
+current page the user was on and another that would then load that same page. This allowed the user to leave the page 
+then come back and load back to the same page.
+
+### Anything Special
+
+I believe that the way I go through each page is something special to my work. I do not believe many people
+using this same API would let the user set how many cards they want to see per page. Since other websites won't
+have this selection, their changing of each page is much simpler. They will display the full amount of the array 
+for one API page which is about 175 objects. Now for me if the user chooses to see only 10 of those objects per
+page, I have to go through the next 165 objects. So I needed to code a way to get through the array then check 
+once I hit the end to up the API page count which would then show create a new array of 175 objects. Also it is not
+documented anywhere but if the user clicks on one of the images a new tab will pop up with a higher resolution image.
+
+### Resources Used
+
+<dl>
+	<dt>Scryfall.com</dt>
+	<dd>used their api for this project</dd>
+	<dt>Visual Studio Code</dt>
+	<dd>Used to code the JavaScript and create the website</dd>
+	<dt>Sight</dt>
+	<dd>Google Chrome extension that interprets JSON data into readable text</dd>
+</dl>
+	
+### Tutorials and Sources
+
+API Used and referenced: https://scryfall.com/docs/api
+
+[Link to a basic guide of local storage](https://blog.logrocket.com/the-complete-guide-to-using-localstorage-in-javascript-apps-ba44edb53a36/)
+
+Grid Content Formating: From class GIF-Finder Homework.
+
+[Link to a tutorial on how to open new tabs when clicking on a link](https://html.com/attributes/a-target/)
+
+### Grade
+
+I believe I deserve an A for this project. The reason for this is I feel my websites functionality is really well
+created for only a group of one. I do believe I deserve to lose some points for design as I felt my selection fields
+were off and should have been designed differently, but I ran out of time. 
